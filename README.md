@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://khushramgaria.github.io/portfolio/](https://khushramgaria.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://khushramgaria-portfolio.vercel.app/](https://khushramgaria-portfolio.vercel.app/)
 
 - 📫 How to reach me **khushramgaria@gmail.com**
 
