@@ -8,7 +8,7 @@
 
  🌱 I’m currently learning **Advance REACT**
  
- 🔭 I’m currently working on **Sitting Plan Automation Project in REACT.JS**
+ 🔭 I’m currently working on **Twitter Clone with MERN**
 
 👨‍💻 All of my projects are available at [https://khushramgaria-portfolio.vercel.app/](https://khushramgaria-portfolio.vercel.app/)
 
