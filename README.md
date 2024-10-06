@@ -22,8 +22,9 @@
 <a href="https://www.youtube.com/c/khushramgaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khushramgaria" height="30" width="40" /></a>
 </p>
 <hr>
+# <div align="center">⚒️ Languages-Frameworks-Tools ⚒️</div>
+
 <div align="center">
-  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&labelColor=222">
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=222">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=222">
@@ -36,6 +37,13 @@
   <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=%23FFCA28&labelColor=222">
   <img src="https://img.shields.io/badge/VScode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=222">
   <img src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=GitHub&logoColor=fff&labelColor=222">
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=%234ea94b&labelColor=222">
+  <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white&labelColor=222">
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=%23339933&labelColor=222">
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=%23316192&labelColor=222">
+  <img src="https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=%232D3748&labelColor=222">
 </div>
 
 <hr>
