@@ -5,10 +5,8 @@
 <h3 align="center">A passionate Web developer from India.</h3>
 
 <div align="center">
-
- 🌱 I’m currently learning **Advance REACT**
  
- 🔭 I’m currently working on **Twitter Clone with MERN**
+ 🔭 I’m currently working on **BringleTech Pvt. Ltd**
 
 👨‍💻 All of my projects are available at [https://khushramgaria-portfolio.vercel.app/](https://khushramgaria-portfolio.vercel.app/)
 
