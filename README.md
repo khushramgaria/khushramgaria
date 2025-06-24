@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **BringleTech Pvt. Ltd**
+ 🔭 I’m currently working on **PRIMOTECH**
 
 👨‍💻 All of my projects are available at [https://khushramgaria-portfolio.vercel.app/](https://khushramgaria-portfolio.vercel.app/)
 
